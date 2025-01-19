@@ -1,4 +1,9 @@
 import SideNav from '../ui/dashboard/sidenav'
+import { Metadata } from 'next'
+
+const metadata: Metadata = {
+  title: 'Dashboard',
+}
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {
   return (
