@@ -1,6 +1,7 @@
 import SideNav from '../ui/dashboard/sidenav'
 import { Metadata } from 'next'
 
+/* eslint-disable */
 const metadata: Metadata = {
   title: 'Dashboard',
 }

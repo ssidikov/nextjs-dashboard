@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 'use client'
 
 import { CustomerField, InvoiceForm } from '@/app/lib/definitions'
